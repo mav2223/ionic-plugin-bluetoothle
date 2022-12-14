@@ -2,7 +2,7 @@
 
 # ionic-plugin-bluetoothle
 
-> [Ionic Native](https://github.com/ionic-team/ionic-native) plugin wrapper for [cordova-plugin-bluetoothle](https://github.com/randdusing/cordova-plugin-bluetoothle)
+> [Ionic Native](https://github.com/ionic-team/ionic-native) plugin wrapper for [cordova-plugin-bluetoothle](https://github.com/mav2223/cordova-plugin-bluetoothle)
 
 
 
